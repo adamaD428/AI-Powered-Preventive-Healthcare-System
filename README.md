@@ -103,3 +103,9 @@ _will be adding two models, XGBoost and Naive Bayes, to the analysis of the diab
 focusing on developing a predictive healthcare system using machine learning and AI.
 >Sprint 2
 In this update to the Jupyter Notebook, the heart disease dataset analysis, I integrated two new models, the Gradient Boosting Classifier and the XGBoost Classifier, to enhance the dataset's predictive analysis. These models were trained on the resampled and scaled data, followed by evaluation metrics to compare their performance against previously implemented classifiers.
+>
+>Ran the heart_notebook.ipynb in jupiter notebook.
+>The line plot and Bar plot code output errors. Changed the numerical values of the layout from (3,3) to (4,4).
+>Added the Xgboost and Naive Bayes to boost the accuracy in predicting wich model is best fitted.
+>Uploaded the adjusted file with the Xgboost and Naive Bayes. But the xgboost output an error; which I will review to fix the error. However the file ran fine on the colab google.
+>Created an app for Predicting Heart Disease.
