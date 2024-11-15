@@ -104,3 +104,8 @@ focusing on developing a predictive healthcare system using machine learning and
 >Sprint 2
 will be adding a model to analyse the heart disease dataset
 >sprint2
+>Ran the heart_notebook.ipynb in jupiter notebook.
+>The line plot and Bar plot code output errors. Changed the numerical values of the layout from (3,3) to (4,4).
+>Added the Xgboost and Naive Bayes to boost the accuracy in predicting wich model is best fitted.
+>Uploaded the adjusted file with the Xgboost and Naive Bayes. But the xgboost output an error; which I will review to fix the error. However the file ran fine on the colab google.
+>Created an app for Predicting Heart Disease.
