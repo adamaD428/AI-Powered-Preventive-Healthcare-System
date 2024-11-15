@@ -11,4 +11,5 @@
  - [X]  Summarize the results
  - [ ]  Compare the performance between the models
  - [ ] Prepare for the Presentation
- - [ ] Building an app for diabetes_risk 
+ - [ ] Building an app for diabetes_risk
+ - [X] bulding an app for Predicting Heart Disease
