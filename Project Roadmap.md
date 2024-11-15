@@ -6,4 +6,5 @@
  - [ ] calculate Acuracy of the Models
  - [ ] Summarize the Results
  - [ ] Transfer updated Jupyter Notebook to GitHub
- - [ ] Prepare for the Presentation 
+ - [ ] Prepare for the Presentation
+ - [ ] Create an app for Predicting Heart Disease
